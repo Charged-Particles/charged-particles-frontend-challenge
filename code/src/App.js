@@ -11,7 +11,8 @@ function App() {
         <header className="App-header">
           <img width="400" src={defaultLogo} className="App-logo" alt="logo" />
         </header>
-        <main>
+      <main>
+          
           <Grid container direction="column">
             <Grid item>
               <Typography variant="subtitle1">

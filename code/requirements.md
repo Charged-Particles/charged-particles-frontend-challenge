@@ -6,3 +6,6 @@
    - `image`
    - `description`
    - `sale price`
+4. Style the app as you see fit using Material UI components and the provided theme
+   - There are some root classes available in the root.styles folder which you may use if you'd like
+   - Feel free to edit the theme if you'd like too
