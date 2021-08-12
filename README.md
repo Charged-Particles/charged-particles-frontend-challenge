@@ -29,4 +29,4 @@ Successful submissions will contain:
 1. Fork and clone this repository
 2. Complete the coding challenge. A markdown file with specific requirements and starter code for the challenge can be found in `./code`.
 3. Answer all questions in the `self-assessment.md` file.
-4. Once you've completed the test, please compress your files (via zip or tar) and return them as a link or email attachment in reply to your test invite. We'd like the code in your submission to remain private, so please avoid committing or pushing the code publicly.
+4. Once you've completed the test, please compress your files (via zip or tar) and return them as a link or email attachment in reply to your test invite. **We'd like the code in your submission to remain private, so please avoid committing or pushing the code publicly.**
