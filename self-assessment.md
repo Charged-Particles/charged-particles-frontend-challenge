@@ -2,13 +2,9 @@
 
 ## Implementation:
 
-### Q) What libraries did you add to the frontend? What are they used for?
+### Q) What libraries did you add? What are they used for?
 
-### Q) What's the command to start the frontend application locally?
-
-### Q) What libraries did you add to the backend? What are they used for?
-
-### Q) What's the command to start the backend application locally?
+### Q) What's the command to start the application locally?
 
 ---
 
