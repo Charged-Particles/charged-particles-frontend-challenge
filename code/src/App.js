@@ -5,14 +5,13 @@ import Grid from '@material-ui/core/Grid';
 import { ThemeProvider } from '@material-ui/core/styles';
 import theme from './root.theme';
 
-function App() {
+const App = () => {
   return (
     <ThemeProvider theme={{ ...theme }}>
         <header className="App-header">
-          <img width="400" src={defaultLogo} className="App-logo" alt="logo" />
+          <img width="80%" src={defaultLogo} className="App-logo" alt="logo" />
         </header>
       <main>
-          
           <Grid container direction="column">
             <Grid item>
               <Typography variant="subtitle1">

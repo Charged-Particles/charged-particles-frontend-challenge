@@ -1,5 +1,5 @@
 // Frameworks
-import { createMuiTheme, createStyles } from '@material-ui/core/styles';
+import { createTheme, createStyles } from '@material-ui/core/styles';
 
 import {GLOBALS} from './globals'
 
@@ -8,7 +8,7 @@ import {GLOBALS} from './globals'
 // see https://v3.material-ui.com/style/color/
 // see https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=EC407A&secondary.color=8E24AA
 
-export default createMuiTheme({
+export default createTheme({
   typography: {
     useNextVariants: true,
     fontFamily: 'Montserrat, Arial, sans-serif',
