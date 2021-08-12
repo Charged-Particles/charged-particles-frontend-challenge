@@ -1,4 +1,4 @@
-# Charged Particles Coding Challenge Self-Assessment
+# Self-Assessment
 
 ## Implementation:
 
