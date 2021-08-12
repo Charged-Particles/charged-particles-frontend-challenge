@@ -8,7 +8,6 @@ Thank you for your interest in Charged Particles! The purpose of this challenge 
 
 Feel free to solve these questions however you see fit, using whatever coding style or third-party libraries you think are appropriate.
 
-To start the test, simply clone this repo and make your edits locally.
 ## Rules
 
 1. You have 3 days to complete this challenge, please reach out to sam@charged.fi if this timeline does not work for you.
