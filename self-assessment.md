@@ -6,7 +6,6 @@
 
 ### Q) What's the command to start the application locally?
 
----
 
 ## General:
 
