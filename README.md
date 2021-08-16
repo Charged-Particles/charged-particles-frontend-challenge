@@ -20,7 +20,6 @@ Successful submissions will contain:
 
 - a well-functioning, visually appealing solution to the coding challenge
 - clean, well-organized code
-- multiple commits with descriptive commit messages
 - clearly written responses to the self-assessment
 
 ## Instructions
