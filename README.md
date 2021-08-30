@@ -10,7 +10,7 @@ Feel free to solve these questions however you see fit, using whatever coding st
 
 ## Rules
 
-1. You have 3 days to complete this challenge, please reach out to sam@charged.fi if this timeline does not work for you.
+1. You have 7 days to complete this challenge, please reach out to sam@charged.fi if this timeline does not work for you.
 2. No cheating or plagiarism -- if you use a code snippet from another source please include a source as well as a comment within the code itself explaining how the code works. That being said, we prefer you use entirely original code.
 3. Applicants must complete all parts of the challenge, including the self-assessment.
 
